@@ -5,7 +5,7 @@
 - 🔭 I am upskilling myself in data engineering and data analysis
 - 🌱 I’m currently learning everything data 🤣
 - 🥅 2022 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
-- ⚡ Fun fact: I love to play fifa and I 
+- ⚡ Fun fact: I create science video content for Discover E and I love to play and teach fifa
 
 ### Connect with me:
 
