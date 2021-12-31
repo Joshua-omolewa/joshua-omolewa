@@ -1,4 +1,21 @@
 ### Hi there, I'm Joshua Omolewa 👋 
+<!-- Updating my readme for GitHub-->
+
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Joshua Omolewa</h1>
+<h3 align="center">An Engineer and Active Learner 😁 </h3>
+
+
+<a href="https://www.linkedin.com/in/joshuaomolewa/">
+  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="mailto:omolewajoshua@gmail.com ">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=joshua-omolewa.91354866)
+<br />
+
 
 ## I'm an structural engineer in training and an aspiring data engineer
 
