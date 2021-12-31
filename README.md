@@ -1,6 +1,6 @@
 <!-- Updating my readme for GitHub-->
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Joshua Omolewa</h1>
+<h1 align="center">Hi <img src="https://github.com/Joshua-omolewa/Covid-19-analysis/blob/main/Covid%20Dataset/images/Wave.gif" height="55px" width="55px">, I'm Joshua Omolewa</h1>
 <h3 align="center">An Engineer and  an Active Learner 😁 </h3>
 
 
