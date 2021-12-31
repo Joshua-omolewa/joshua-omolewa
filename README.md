@@ -16,7 +16,7 @@
 <br />
 
 
-## I'm an structural engineer in training and an aspiring data engineer
+## I'm a structural engineer in training and an aspiring data engineer
 
 - 🔭 I am upskilling myself in data engineering and data analysis
 - 🌱 I’m currently learning everything data 🤣
@@ -40,10 +40,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
-
-
-
 
 
 [linkedin]: https://www.linkedin.com/in/joshuaomolewa/
