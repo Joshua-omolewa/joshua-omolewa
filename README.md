@@ -16,7 +16,7 @@
 <br />
 
 
-## I'm a structural engineer in training and an aspiring data engineer
+## I'm a certified IBM Data Analyst and an aspiring data engineer
 
 - 🔭 I am upskilling myself in data engineering and data analysis
 - 🌱 I’m currently learning everything data 🤣
