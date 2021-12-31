@@ -13,6 +13,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joshua-omolewa.91354866)
+![](https://komarev.com/ghpvc/?username=joshua-omolewa&color=green)
 <br />
 
 
