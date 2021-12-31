@@ -5,7 +5,7 @@
 
 
 <a href="https://www.linkedin.com/in/joshuaomolewa/">
-  <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Joshua Omolewa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="mailto:omolewajoshua@gmail.com ">
