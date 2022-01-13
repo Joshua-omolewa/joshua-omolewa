@@ -19,7 +19,7 @@
 
 ## I'm a certified IBM Data Analyst and an aspiring data engineer
 
-- 🔭 I am upskilling myself in data analysis and data engineering 
+- 🔭 I am upskilling myself in data science and data engineering 
 - 🌱 I’m currently learning everything data 🤣
 - 🥅 2022 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
