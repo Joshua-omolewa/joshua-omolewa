@@ -3,7 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Joshua-omolewa/joshua-omolewa/main/Img/Wave.gif" height="55px" width="55px">, I'm Joshua Omolewa</h1>
 <h3 align="center">An Engineer, an Active Learner, and passionate about Data 😁 </h3>
 
-
 <a href="https://www.linkedin.com/in/joshuaomolewa/">
   <img align="left" alt="Joshua Omolewa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,6 +12,11 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joshua-omolewa.91354866)
+
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=joshua-omolewa" alt="joshua-omolewa">
+</div>
+
 
 <br />
 
