@@ -23,9 +23,9 @@
 
 ## I'm a certified IBM Data Analyst and an aspiring data engineer
 
-- 🔭 I am upskilling myself in data science and data engineering 
-- 🌱 I’m currently learning everything data 🤣 and working on my **project portfolio** in private at the moment. (**Coming soon**)
-- 🥅 2022 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
+- 🔭 I am upskilling myself and current enrolled in a data engineering program with WecloudData
+- 🌱 I’m currently learning everything data 🤣 and working on my **project portfolio** in private at the moment. (** More projects Coming soon**)
+- 🥅 2022/2023 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I create science video content for Discover E and I love to play and teach fifa
 
