@@ -23,7 +23,7 @@
 
 ## I'm a certified IBM Data Analyst and an aspiring data engineer
 
-- 🔭 I am upskilling myself and current enrolled in a data engineering program with WecloudData
+- 🔭 I am upskilling myself and currently enrolled in a data engineering program with WecloudData
 - 🌱 I’m currently learning everything data 🤣 and working on my **project portfolio** in private at the moment. (**More projects Coming soon**)
 - 🥅 2022/2023 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
