@@ -21,7 +21,7 @@
 <br />
 
 
-## I'm a Data engineer and a certified IBM Data Analyst who is passionate helping companies to solve their data problems. 
+## I'm a Data engineer and a certified IBM Data Analyst who is passionate about helping companies to solve their data problems. 
 
 - 🔭 I completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectation.
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
