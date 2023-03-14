@@ -1,7 +1,7 @@
 <!-- Updating my readme for GitHub-->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Joshua-omolewa/joshua-omolewa/main/Img/Wave.gif" height="55px" width="55px">, I'm Joshua Omolewa</h1>
-<h3 align="center">An Engineer, an Active Learner, and really passionate about solving data problems 😁 </h3>
+<h3 align="center">An Engineer, an Active Learner, and I am really passionate about solving data problems 😁 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
