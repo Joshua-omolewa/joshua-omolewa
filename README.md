@@ -21,10 +21,10 @@
 <br />
 
 
-## I'm a certified IBM Data Analyst and an aspiring data engineer
+## I'm a Data engineer and a certified IBM Data Analyst who is am passionate about solving data problems. 
 
-- 🔭 I am upskilling myself and currently enrolled in a data engineering program with WecloudData
-- 🌱 I’m currently learning everything data 🤣 and working on my **project portfolio** in private at the moment. (**More projects Coming soon**)
+- 🔭 I completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apach Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectation.
+- 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
 - 🥅 2022/2023 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I create science video content for Discover E and I love to play and teach fifa
@@ -48,7 +48,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
-<img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/512px-Microsoft_Excel_2013-2019_logo.svg.png" />
+
 
 <br />
 
