@@ -25,7 +25,7 @@
 
 - 🔭 I completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectation.
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
-- 🥅 2022/2023 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
+- 🥅 2023/2024 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I create science video content for Discover E and I love to play and teach fifa
 
