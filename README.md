@@ -21,13 +21,13 @@
 <br />
 
 
-## I'm a Data engineer and a certified IBM Data Analyst who is passionate about helping companies to solve their data problems. 
+## I'm a Data engineer and a certified IBM Data Analyst who is passionate about helping companies solve their data problems. 
 
-- 🔭 I completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectation.
+- 🔭 I completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectations.
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
-- 🥅 2023/2024 Goals: Become a practicing data professional, contribute  to Open Source projects and play guitar
+- 🥅 2023/2024 Goals: Obtain my AWS solutions Architect, Become a practicing data professional, contribute  to Open Source projects, and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
-- ⚡ Fun fact: I create science video content for Discover E and I love to play and teach fifa
+- ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
 ### Connect with me:
 
