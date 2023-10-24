@@ -29,7 +29,7 @@
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Algorithm` `NoSQL` `ETL` `Data pipeline` `Data Warehousing`
+SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Snowflake` `Redshift` `Data Modeling`
 
 ### Connect with me:
 
