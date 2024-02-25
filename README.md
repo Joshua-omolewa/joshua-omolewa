@@ -25,11 +25,11 @@
 
 - 🔭 I work as a data engineering consultant and completed my postgraduate data engineering program with WecloudData and I have experience building efficient and scalable data infrastructures using AWS services & other open source tools e.g. Python, Spark, Apache Nifi, Airflow, Git etc.I am proficient in implementing data governance  and data quality using great expectations.
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
-- 🥅 2023/2024 Goals: Obtain my AWS solutions Architect, Become a practicing data professional, contribute  to Open Source projects, and play guitar
+- 🥅 2024/2025 Goals: Obtain my AWS data Engineer Associate Certification, contribute  to Open Source projects, and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Snowflake` `Redshift` `Data Modeling`
+SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Snowflake` `Redshift` `Data Modeling`
 
 ### Connect with me:
 
