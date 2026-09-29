@@ -29,7 +29,7 @@
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-SKILLS: `Python` `ETL/ELT` `PySpark` `Kafka` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Datadog` `Snowflake` `Redshift` `Data Modeling`
+SKILLS: `Python` `ETL/ELT` `PySpark` `Kafka` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Datalakehouse` `Apache Iceberg` `Git Actions (CI/CD)` `Terraform` `Datadog` `Snowflake` `Redshift` `Data Modeling` `Airflow` `Dagster`
 
 ### Connect with me:
 
@@ -58,6 +58,8 @@ SKILLS: `Python` `ETL/ELT` `PySpark` `Kafka` `Databricks` `AWS Cloud` `Linux` `S
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="50" alt="Terraform" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="50" alt="Apache Spark" />
 <img src="https://github.com/user-attachments/assets/da9eae16-e8bc-404c-8682-3da450900db7" width="80" alt="Custom Icon" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"  width="50" alt="Apache Airflow"/>
+          
 </p>
 
 <br />
