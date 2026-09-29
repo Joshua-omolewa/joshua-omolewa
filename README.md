@@ -29,7 +29,7 @@
 - 📫 How to reach me **omolewajoshua@gmail.com**
 - ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
 
-SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Datadog` `Snowflake` `Redshift` `Data Modeling`
+SKILLS: `Python` `ETL/ELT` `PySpark` `Kafka` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Git Actions (CI/CD)` `Terraform` `Datadog` `Snowflake` `Redshift` `Data Modeling`
 
 ### Connect with me:
 
@@ -48,7 +48,8 @@ SKILLS: `Python` `PySpark` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL`
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40" alt="MySQL" />
 <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white" width="70" alt="Snowflake" />
 <img width="40" alt="Databricks" src="https://github.com/user-attachments/assets/4174c78c-2448-49de-9f7f-82332aed00e4" />
-<img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" width="70" alt="Datadog" />
+<img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" width="70" alt="Datadog" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" alt="Kafka"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="Postgres" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" alt="Git" />
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" alt="GitHub" />
