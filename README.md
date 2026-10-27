@@ -27,7 +27,7 @@
 - 🌱 I’m currently solving data engineering problems and working on  some **projects** in private at the moment. (**More projects Coming soon**)
 - 🥅 2026/2027 Goals: Obtain my AWS Data Engineer Associate, Databrick Data Engineer, Snowpro Core Certifications, contribute  to Open Source projects, and play guitar
 - 📫 How to reach me **omolewajoshua@gmail.com**
-- ⚡ Fun fact: I love learning new technologies and I also love to play and teach fifa
+- ⚡ Fun fact: I love reading, learning new technologies and I also love to play and teach fifa
 
 SKILLS: `Python` `ETL/ELT` `PySpark` `Kafka` `Databricks` `AWS Cloud` `Linux` `SQl` `Git`  `NoSQL` `ETL/ELT` `Data pipeline` `Dbt` `Data Warehousing` `Datalakehouse` `Apache Iceberg` `GitHub Actions (CI/CD)` `Terraform` `Datadog` `Snowflake` `Redshift` `Data Modeling` `Airflow` `Dagster`
 
